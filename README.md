@@ -9,3 +9,6 @@ Bu layihənin məqsədi test sənədlərinin necə hazirlandığını göstərm�
 - Şəkilli test dioqramları
   ## Hazırlayan
    Firuzə
+
+ ## Test Dioqramı
+ !( Test Diaqrami ) (diagrams / diagram.png )
