@@ -1,2 +1,11 @@
-# kapital-bank--test-project
-Kapital bank ucun test strategiyasi ve test plan tapsirigi
+# Kapital-Bank--Test-Layihesi
+## Layihe haqqinda
+Bu repozitoriya Kapital Bank uzre test tapsirigi ucun yaradilib. Layihədə test strategiyası , test planı və test dioqramları mövcuddur .
+## Məqsəd
+Bu layihənin məqsədi test sənədlərinin necə hazirlandığını göstərməkdir .
+## Məzmun
+- Test strategiyası
+- Test Plan
+- Şəkilli test dioqramları
+  ## Hazırlayan
+   Firuzə
