@@ -1,4 +1,4 @@
-# Kapital-Bank--Test-Layihesi
+# Kapital Bank Testing Project
 ## Layihe haqqinda
 Bu repozitoriya Kapital Bank uzre test tapsirigi ucun yaradilib. Layihədə test strategiyası , test planı və test dioqramları mövcuddur .
 ## Məqsəd
