@@ -1,7 +1,7 @@
 # Test Strategiyası - Kapital Bank
 
 ## Introductıon
-Bu sənəd Kapital Bank layihəsi üçün test strategiyasını təsvir edir .
+Bu sənəd Kapital Bank layihəsi üçün test strategiyasını təqdim edir . Funksiyaların düzgün işləməsi , test planın hazırlanması, sistemin Web , mobile və backend hissələrini əhatə edir . 
 
 ## Scope
 - Web / Mobile tətbiq
@@ -10,21 +10,9 @@ Bu sənəd Kapital Bank layihəsi üçün test strategiyasını təsvir edir .
   
 ## Test types
 - Funksional Testing
-- API Testing
 - Regression Testing
+- Positive Testing
+- Negative Testing 
 
   ## Test yanaşması
   Testlər manual şəkildə aparılacaq
-
-  ## İstifadə olunan alətlər
-  - GitHub
-  - Brauzer
-
-## Giriş meyarları
-- Tələblər mövcuddur
-- Test mühiti hazırdır
-
-  ## Test mühiti
-  - kompüter
-  - İnternet bağlantısı
-  - GitHub platforması
