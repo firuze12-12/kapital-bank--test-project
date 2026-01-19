@@ -3,12 +3,9 @@
 Bu repozitoriya Kapital Bank uzre test tapsirigi ucun yaradilib. Layihədə test strategiyası , test planı və test dioqramları mövcuddur .
 ## Məqsəd
 Bu layihənin məqsədi test sənədlərinin necə hazirlandığını göstərməkdir .
-## Məzmun
-- Test strategiyası
+## Contents
+- Test Strategy
 - Test Plan
-- Şəkilli test dioqramları
-  ## Hazırlayan
-   Firuzə
+- Architecture Diagram
+  
 
- ## Test Dioqramı
- !( Test Diaqrami ) (diagrams / diagram.png )
