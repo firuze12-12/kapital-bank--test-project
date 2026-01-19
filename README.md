@@ -7,5 +7,3 @@ Bu layihənin məqsədi test sənədlərinin necə hazirlandığını göstərm�
 - Test Strategy
 - Test Plan
 - Architecture Diagram
-  
-
