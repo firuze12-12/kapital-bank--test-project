@@ -4,13 +4,14 @@
 Bu sənəd Kapital Bank layihəsi üçün test strategiyasını təsvir edir .
 
 ## Scope
-- Funksional test
-- Manual test
+- Web / Mobile tətbiq
+- Backend API
+- Database
   
 ## Test types
-- Smoke test
-- Funksional test
-- Regressiya testi
+- Funksional Testing
+- API Testing
+- Regression Testing
 
   ## Test yanaşması
   Testlər manual şəkildə aparılacaq
@@ -27,9 +28,3 @@ Bu sənəd Kapital Bank layihəsi üçün test strategiyasını təsvir edir .
   - kompüter
   - İnternet bağlantısı
   - GitHub platforması
-
-    ## Çıxış meyarları
-    - Test strategiyası hazırlanıb
-    - Test plan hazırlanıb
-    - Dioqramlar əlavə edilib
-    - Repozitoriya paylaşılıb
