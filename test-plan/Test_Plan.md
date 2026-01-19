@@ -1,24 +1,21 @@
 # Test Plan - Kapital Bank
 
-## Test elementləri
-- Test strategiyası sənsədi
-- Test plan sənədi
-- Test dioqramları
+## Test elements
+Bu test plan aşağıdakı elementləri əhatə edir :
+- Login funksiyası ( Web və mobil )
+- Balance yoxlanması
+- Money transfer
 
-  ## Test objectives
-  - Test sənədlərinin düzgünlüyünü yoxlamaq
-  - Layihə strukturunun basa düşulməsini təmin etmək
- 
-    ## Test environment
-    - Kompüter
-    - İnternet baglantısı
-    - GitHub platforması
-   
-      
-   ## Test təhvil qaydası
-  - Test strategiyası və plan sənədləri hazırlanmış olmalıdır
-  - Dioqramlar əlavə edilməlidir
+   ## Test environment
+    - Web browser ( chrome / Firefox )
+    - Mobil app ( Android / İOS )
+    - Test database
+## Test Execution
+- Manual Testing : əsas funkionallıqlar
+- Positive testlər ( düzgün giriş və əməliyyat )
+- Negative testlər ( yanlış giriş , limit aşımı )
 
-     ## Test nəticələrinin təyini
-    - Bütün sənədlər repozitoriyada mövcud olmalıdır
-    
+  ## Test Deliverables
+  - Test case-lər ( hansı testlər aparılıb )
+  - Bug report-lar
+  - Test nəticələri qısa hesabatı
